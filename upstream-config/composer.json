@@ -14,7 +14,6 @@
         "pantheon-systems/quicksilver-pushback": "^2",
         "roots/bedrock": "^1.17.0",
         "roots/wp-password-bcrypt": "^1.0.0",
-        "vlucas/phpdotenv": "^3.1.0",
         "wpackagist-plugin/lh-hsts": "^1.24",
         "wpackagist-plugin/pantheon-advanced-page-cache": ">=0.3.0",
         "wpackagist-plugin/wp-native-php-sessions": ">=0.6.9",
